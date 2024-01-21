@@ -1,2 +1,1 @@
-import runTime  from './RunTime.json' assert { type: "json" };
-
+penguins=FileAttachment("Leafly.json").json()
